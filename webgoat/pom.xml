@@ -144,10 +144,11 @@
 			<version>1.4.2</version>
 		</dependency>
 		<dependency>
-			<groupId>javax.transaction</groupId>
-			<artifactId>jta</artifactId>
-			<version>1.0.1B</version>
+    			<groupId>javax.transaction</groupId>
+    			<artifactId>jta</artifactId>
+    			<version>1.1</version>
 		</dependency>
+
 		<dependency>
 			<groupId>net.sourceforge.jtds</groupId>
 			<artifactId>jtds</artifactId>
